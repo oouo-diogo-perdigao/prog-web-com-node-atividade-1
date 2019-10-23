@@ -1,0 +1,14 @@
+{
+  "name": "atividade-1",
+  "version": "0.0.1",
+  "description": "Atividade 1 do modulo em sala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Perdigão",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
